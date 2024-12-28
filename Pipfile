@@ -16,6 +16,7 @@ torch = {index = "pytorch",version = "*"}
 torchvision = {index ="pytorch", version= "*"}
 torchaudio = {index ="pytorch", version= "*"}
 scikit-learn = "*"
+pandas = "*"
 
 [dev-packages]
 
