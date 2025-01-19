@@ -17,6 +17,7 @@ torchvision = {index ="pytorch", version= "*"}
 torchaudio = {index ="pytorch", version= "*"}
 scikit-learn = "*"
 pandas = "*"
+tqdm = "*"
 
 [dev-packages]
 
