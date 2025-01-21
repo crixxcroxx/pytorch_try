@@ -18,6 +18,7 @@ torchaudio = {index ="pytorch", version= "*"}
 scikit-learn = "*"
 pandas = "*"
 tqdm = "*"
+torchinfo = "*"
 
 [dev-packages]
 
